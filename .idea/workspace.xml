@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26f307be-ce71-411d-80fa-99034c14fcbd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/02 - Starter Files and Tooling Setup/test-START.html" afterPath="$PROJECT_DIR$/02 - Starter Files and Tooling Setup/test-START.html" />
-      <change beforePath="$PROJECT_DIR$/03 - CSS Grid Fundamentals/css-grid-fundamentals-START.html" afterPath="$PROJECT_DIR$/03 - CSS Grid Fundamentals/css-grid-fundamentals-START.html" />
+      <change beforePath="$PROJECT_DIR$/04 - CSS Grid Dev Tools/dev-tools-START.html" afterPath="$PROJECT_DIR$/04 - CSS Grid Dev Tools/dev-tools-START.html" />
+      <change beforePath="$PROJECT_DIR$/05 - CSS Grid Implicit vs Explicit Tracks/implicit-vs-explicit-START.html" afterPath="$PROJECT_DIR$/05 - CSS Grid Implicit vs Explicit Tracks/implicit-vs-explicit-START.html" />
+      <change beforePath="$PROJECT_DIR$/07 - Sizing tracks in CSS Grid/sizing-tracks-START.html" afterPath="$PROJECT_DIR$/07 - Sizing tracks in CSS Grid/sizing-tracks-START.html" />
+      <change beforePath="$PROJECT_DIR$/09 - Sizing Grid Items/sizing-items-START.html" afterPath="$PROJECT_DIR$/09 - Sizing Grid Items/sizing-items-START.html" />
+      <change beforePath="$PROJECT_DIR$/10 - Placing Grid Items/placing-START.html" afterPath="$PROJECT_DIR$/10 - Placing Grid Items/placing-START.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,11 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="css-grid-fundamentals-START.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03 - CSS Grid Fundamentals/css-grid-fundamentals-START.html">
+      <file leaf-file-name="sizing-items-START.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09 - Sizing Grid Items/sizing-items-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+            <state relative-caret-position="224">
+              <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="placing-START.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10 - Placing Grid Items/placing-START.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="54" column="27" lean-forward="false" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -40,6 +51,11 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/02 - Starter Files and Tooling Setup/test-START.html" />
         <option value="$PROJECT_DIR$/03 - CSS Grid Fundamentals/css-grid-fundamentals-START.html" />
+        <option value="$PROJECT_DIR$/04 - CSS Grid Dev Tools/dev-tools-START.html" />
+        <option value="$PROJECT_DIR$/05 - CSS Grid Implicit vs Explicit Tracks/implicit-vs-explicit-START.html" />
+        <option value="$PROJECT_DIR$/07 - Sizing tracks in CSS Grid/sizing-tracks-START.html" />
+        <option value="$PROJECT_DIR$/09 - Sizing Grid Items/sizing-items-START.html" />
+        <option value="$PROJECT_DIR$/10 - Placing Grid Items/placing-START.html" />
       </list>
     </option>
   </component>
@@ -54,7 +70,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="641" />
     <option name="width" value="639" />
     <option name="height" value="800" />
@@ -88,6 +104,16 @@
               <item name="css-grid-master" type="462c0819:PsiDirectoryNode" />
               <item name="02 - Starter Files and Tooling Setup" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="css-grid-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="css-grid-master" type="462c0819:PsiDirectoryNode" />
+              <item name="05 - CSS Grid Implicit vs Explicit Tracks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="css-grid-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="css-grid-master" type="462c0819:PsiDirectoryNode" />
+              <item name="06 - CSS grid-auto-flow Explained" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -99,6 +125,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,15 +152,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519502081139</updated>
-      <workItem from="1519502086077" duration="1110000" />
+      <workItem from="1519502086077" duration="3636000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1110000" />
+    <option name="totallyTimeSpent" value="3636000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="566" y="0" width="714" height="800" extended-state="6" />
+    <frame x="642" y="0" width="638" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -144,7 +171,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28746593" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2492163" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -185,10 +212,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04 - CSS Grid Dev Tools/dev-tools-FINISHED.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 - CSS Grid Dev Tools/dev-tools-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 - CSS Grid Fundamentals/css-grid-fundamentals-FINISHED.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03 - CSS Grid Fundamentals/css-grid-fundamentals-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        <state relative-caret-position="139">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 - CSS Grid Implicit vs Explicit Tracks/implicit-vs-explicit-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 - CSS grid-auto-flow Explained/autoflow-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07 - Sizing tracks in CSS Grid/sizing-tracks-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09 - Sizing Grid Items/sizing-items-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 - Placing Grid Items/placing-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="54" column="27" lean-forward="false" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
           <folding />
         </state>
       </provider>
