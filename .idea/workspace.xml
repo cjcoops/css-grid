@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26f307be-ce71-411d-80fa-99034c14fcbd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/playground.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17 - CSS Grid Alignment + Centering/alignment-and-centering-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/17 - CSS Grid Alignment + Centering/alignment-and-centering-START.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18 - Re-ordering Grid Items/order-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/18 - Re-ordering Grid Items/order-START.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19 - Nesting Grid with Album Layouts/albums-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/19 - Nesting Grid with Album Layouts/albums-START.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21 - Flexbox vs CSS Grid/controls-on-right-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/21 - Flexbox vs CSS Grid/controls-on-right-START.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/22 - Recreating Codepen/style-START.css" beforeDir="false" afterPath="$PROJECT_DIR$/22 - Recreating Codepen/style-START.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - Responisve Website/responsive-START.css" beforeDir="false" afterPath="$PROJECT_DIR$/24 - Responisve Website/responsive-START.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - Responisve Website/responsive-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/24 - Responisve Website/responsive-START.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,26 +22,26 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="102">
+              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="codepen-START.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22 - Recreating Codepen/codepen-START.html">
+      <file leaf-file-name="responsive-START.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/24 - Responisve Website/responsive-START.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="55" column="14" lean-forward="true" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+            <state relative-caret-position="258">
+              <caret line="101" column="8" lean-forward="true" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style-START.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/22 - Recreating Codepen/style-START.css">
+      <file leaf-file-name="responsive-START.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/24 - Responisve Website/responsive-START.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="934">
-              <caret line="85" column="64" selection-start-line="85" selection-start-column="64" selection-end-line="85" selection-end-column="64" />
+            <state relative-caret-position="293">
+              <caret line="145" column="13" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -78,6 +75,8 @@
         <option value="$PROJECT_DIR$/21 - Flexbox vs CSS Grid/controls-on-right-START.html" />
         <option value="$PROJECT_DIR$/playground.html" />
         <option value="$PROJECT_DIR$/22 - Recreating Codepen/style-START.css" />
+        <option value="$PROJECT_DIR$/24 - Responisve Website/responsive-START.html" />
+        <option value="$PROJECT_DIR$/24 - Responisve Website/responsive-START.css" />
       </list>
     </option>
   </component>
@@ -92,11 +91,10 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1620" />
-    <option name="y" value="-1080" />
-    <option name="width" value="958" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="642" />
+    <option name="width" value="638" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -179,58 +177,60 @@
       <workItem from="1520778220274" duration="1231000" />
       <workItem from="1520861996189" duration="6611000" />
       <workItem from="1521808118449" duration="1624000" />
-      <workItem from="1522141169843" duration="2087000" />
+      <workItem from="1522141169843" duration="2400000" />
+      <workItem from="1522266326430" duration="94000" />
+      <workItem from="1522511748307" duration="5195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26062000" />
+    <option name="totallyTimeSpent" value="31664000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1620" y="-1080" width="958" height="1080" extended-state="0" />
+    <frame x="449" y="0" width="831" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32938856" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32938856" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.18871595" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18850267" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.30793318" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32938856" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30793318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32938856" />
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.18871595" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Favorites" order="4" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -241,6 +241,41 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/22 - Recreating Codepen/codepen-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22 - Recreating Codepen/style-START.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="17" lean-forward="true" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22 - Recreating Codepen/codepen-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="14" lean-forward="true" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22 - Recreating Codepen/style-START.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="20" lean-forward="true" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/16 - grid-auto-flow dense Block Fitting/dense-START.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1377">
@@ -255,18 +290,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12 - auto-fit and auto-fill/auto-fit-and-auto-fill-FINISHED.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/06 - CSS grid-auto-flow Explained/autoflow-FINISHED.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07 - Sizing tracks in CSS Grid/sizing-tracks-FINISHED.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/15 - Naming Lines in CSS Grid/naming-lines-START.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -288,9 +317,6 @@
           <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12 - auto-fit and auto-fill/auto-fit-and-auto-fill-FINISHED.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/15 - Naming Lines in CSS Grid/naming-lines-START.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -474,9 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12 - auto-fit and auto-fill/auto-fit-and-auto-fill-FINISHED.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/06 - CSS grid-auto-flow Explained/autoflow-FINISHED.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -519,19 +542,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07 - Sizing tracks in CSS Grid/sizing-tracks-FINISHED.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/24 - Responisve Website/responsive-FINISHED.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1211" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10 - Placing Grid Items/placing-FINISHED.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14 - Grid Template Areas/areas-FINISHED.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/playground.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -547,24 +561,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/22 - Recreating Codepen/style-START.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="17">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/22 - Recreating Codepen/codepen-START.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="55" column="14" lean-forward="true" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+        <state relative-caret-position="530">
+          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22 - Recreating Codepen/style-START.css">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="934">
-          <caret line="85" column="64" selection-start-line="85" selection-start-column="64" selection-end-line="85" selection-end-column="64" />
+        <state relative-caret-position="102">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24 - Responisve Website/responsive-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="101" column="8" lean-forward="true" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24 - Responisve Website/responsive-START.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="145" column="13" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="13" />
         </state>
       </provider>
     </entry>
